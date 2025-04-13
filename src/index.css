@@ -9,29 +9,33 @@
 	list-style: none;
 	text-decoration: none;
 }
+
 :root {
-	--color-dark-primary: #1f1f38;
-	--color-secondary-light: #BC8CF2;
-	--color-secondary-dark: #60009466;
-	--color-accent: #AA14F0;
-	--color-dark-text: #EEEEEE;
+	/* Primary Colors */
+	--color-dark-primary: #0A192F; 
+	--color-secondary-light: #64FFDA;  
+	--color-secondary-dark: #112240;  
+	--color-accent: #3B82F6;  
+	--color-dark-text: #E6F1FF;
 
-	--color-light-primary: #EEEEEE;
-	--color-secondary: #BC8CF2;
-	--color-accent: #AA14F0;
-	--color-ligth-text: #1f1f38;
+	/* Light Theme Colors */
+	--color-light-primary: #F8FAFC;
+	--color-secondary: #64FFDA;
+	--color-ligth-text: #0A192F;
 
-	--color-bg:#1f1f38 ;
-	--color-bg-variant: #2c2c6c;
-	--color-primary: #4db5ff;
-	--color-primary-variant: rgba(77, 181, 255, 0.4);
-	--color-white: #fff;
-	--color-light: rgba(255, 255, 255, 0.6);
+	/* Other UI Colors */
+	--color-bg: #0A192F;
+	--color-bg-variant: #112240;
+	--color-primary: #3B82F6;
+	--color-primary-variant: rgba(59, 130, 246, 0.4);
+	--color-white: #E6F1FF;
+	--color-light: rgba(230, 241, 255, 0.7);
 	--transition: all 400ms ease;
 	--container-width-lg: 75%;
 	--container-width-md: 86%;
 	--container-width-ms: 90%;
 }
+
 html {
 	scroll-behavior: smooth;
 }
