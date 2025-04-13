@@ -92,10 +92,7 @@ const Portfolio = () => {
               }}
               className='portfolio__item'>
               <div className='portfolio__item-image'>
-                <img src={url} alt={title} />
-                {/* <Suspense fallback={<div className='image-placeholder'>Loading...</div>}>
-								</Suspense> */}
-                {/* <LazyLoadImage src={require(url)} alt={title} /> */}
+                <img src={url} alt={title} loading="lazy"/>
               </div>
               <div className='details'>
                 <div className='projectDetails'>
