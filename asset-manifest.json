@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3cd9800.css",
-    "main.js": "/static/js/main.99b06e5c.js",
+    "main.js": "/static/js/main.0b98815f.js",
     "static/media/ai-image-generator.png": "/static/media/ai-image-generator.277f4ac5acfc985aac3a.png",
     "static/media/image-gallery.png": "/static/media/image-gallery.92559d2cbf64f36b64d3.png",
     "static/media/react-ecommerce-project.png": "/static/media/react-ecommerce-project.b4b614c743370c056b07.png",
@@ -11,10 +11,10 @@
     "static/media/HeroSection.jpg": "/static/media/HeroSection.6553b6862fa4815ccd2d.jpg",
     "index.html": "/index.html",
     "main.e3cd9800.css.map": "/static/css/main.e3cd9800.css.map",
-    "main.99b06e5c.js.map": "/static/js/main.99b06e5c.js.map"
+    "main.0b98815f.js.map": "/static/js/main.0b98815f.js.map"
   },
   "entrypoints": [
     "static/css/main.e3cd9800.css",
-    "static/js/main.99b06e5c.js"
+    "static/js/main.0b98815f.js"
   ]
 }
